@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on developing programs
-- 📫 How to reach me https://www.diljith.in/social_media/
+- 📫 How to reach me https://www.diljith.ml/
 
 <!---
 Diljith-k-p/Diljith-k-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
